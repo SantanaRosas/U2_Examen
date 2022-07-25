@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background: #dce4ed;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #522b48, #0efff9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #522b48, #0efff9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.articulo{
+    font-size: 0;
+    
+}
+#imagen1{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen2{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen3{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen4{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen5{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen6{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen7{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen8{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen9{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen10{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen11{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen12{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen13{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen14{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen15{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen16{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen17{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen18{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen19{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen20{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen21{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen22{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen23{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#imagen24{
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+#contenido{
+            height: 1120px;
+            border-radius: 50px;
+            margin-top: 30px;
+            padding: 20px;
+            box-shadow: 0 0 20px 1px rgba(0,0,0,0.3);           
+}
+#listas{
+    font-size: 30px;
+    margin-top: 20px;
+    font-weight: 600;
+    columns: #fff;
+    padding: 20px;
+    margin-top: 30px;
+    max-width: 100%;
+    height: 455px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 1px rgba(0,0,0,0.3);
+}
+input{
+    width: 300px;
+    padding: 10px;
+    outline: none;
+    border-radius: 10px;
+    border: 5px solid #000;
+    font-weight: 600; 
+    text-align: center; 
+    
+}
+.filtro {
+    display: none;
+}
+.filtro1{
+    display: none;
+}
